@@ -8,7 +8,7 @@ Thanks for checking out this Application.
 ## Overview
 
 ### Links
-- Live Site URL: [Live Site](j-muzk.netlify.app)
+- Live Site URL: [Live Site](https://j-muzk.netlify.app/)
 
 ## My process
 
