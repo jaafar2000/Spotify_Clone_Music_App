@@ -20,7 +20,7 @@ Thanks for checking out this Application.
 - Tailwind Css
 - JavaScript
 - JSX
-- RapidAPI
+
 
 
 ## Author
