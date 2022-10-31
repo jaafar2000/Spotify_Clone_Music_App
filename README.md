@@ -8,18 +8,16 @@ Thanks for checking out this Application.
 ## Overview
 
 ### Links
-- Live Site URL: [Live Site](https://j-muzk.netlify.app/)
+- Live Site URL: [Live Site](https://beautiful-sopapillas-0df4b7.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - React Js
-- Redux
-- RapidAPI
-- Tailwind Css
 - JavaScript
 - JSX
+- css
 
 
 
